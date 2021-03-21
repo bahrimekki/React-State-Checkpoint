@@ -1,0 +1,17 @@
+.App {
+    display: flex;
+    width: 80%;
+    margin: 50px auto;
+    padding: 3%;
+    background-color: #2196f354;
+    border-radius: 20px;
+}
+button {
+    display: flex;
+    margin: 50px auto;
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    padding: 15px 34px;
+}
